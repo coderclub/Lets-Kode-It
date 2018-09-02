@@ -1,7 +1,6 @@
 package outerinner;
 
-public class OuterDemo {
-	
+public class OuterDemo1 {
 	int num;
 
     public static class InnerDemo{
