@@ -1,7 +1,7 @@
 package outerinner;
 
 public class OuterDemo {
-	
+
 	int num;
 
     public static class InnerDemo{
@@ -26,3 +26,5 @@ public class OuterDemo {
     }
 
 }
+
+//shahrukh, farzad, asif
