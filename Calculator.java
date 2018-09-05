@@ -5,6 +5,7 @@ package MakeCalculator;
  * and open the template in the editor.
  */
  //@author : Emdadullah Farzad
+ //modified by Farzad
 
 import java.util.Scanner;
 import java.math.*;
@@ -316,5 +317,3 @@ public class Calculator {
 
     }
 }
-
-
