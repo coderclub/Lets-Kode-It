@@ -22,7 +22,12 @@ public class OuterDemo {
 
     public static void main(String[] args) {
         OuterDemo.InnerDemo id = new OuterDemo.InnerDemo();
+        OuterDemo.InnerDemo2 id2 = new OuterDemo.InnerDemo2();
+        OuterDemo.InnerDemo3 id3 = new OuterDemo.InnerDemo3();
         id.showmessage();
+        id.display();
+        id.print();
+
     }
 
 }
