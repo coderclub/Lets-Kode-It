@@ -18,6 +18,8 @@ public class OuterDemo {
     public static class InnerDemo3{
          public void display(){
             System.out.println("display the method");
+        }
+
     }
 
     public static void main(String[] args) {
@@ -31,5 +33,5 @@ public class OuterDemo {
     }
 
 }
-
+@author asif
 //shahrukh, farzad, asif
