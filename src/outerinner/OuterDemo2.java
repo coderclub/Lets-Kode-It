@@ -13,6 +13,11 @@ public class OuterDemo1 {
             System.out.println("Show me the statics");
         }
     }
+    public static calss InnerDemo3{
+        public void showInformation(){
+            System.out.println("Show me the information")
+        }
+    }
 
     public static void main(String[] args) {
         OuterDemo.InnerDemo id = new OuterDemo.InnerDemo();
